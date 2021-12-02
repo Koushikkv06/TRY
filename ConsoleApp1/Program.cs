@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Successfully completed the git");
-            Console.WriteLine("Getting Errors");
+            Console.Write("Trying.....");
         }
     }
 }
